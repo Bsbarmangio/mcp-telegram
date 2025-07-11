@@ -1,0 +1,1 @@
+web: gunicorn mcp_telegram_server:app
