@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-BOT_TOKEN = '7460080838:AAEu44ztdUTY--f44kA59xo8fQYsrATKSDU'
+BOT_TOKEN = '7460080838:AAGkMHTE11sNb-cqrKKRKKs9V9J6ZTVjxms'
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 DEFAULT_CHAT_ID = '6896590701'
 
